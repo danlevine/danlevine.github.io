@@ -3,7 +3,7 @@
     <small>Hi, I'm</small>
     <h1 class="page-title">Daniel Levine</h1>
     <div>and I build user interfaces for the web</div>
-    <div class="subtext">(for example, I built this simple/minimal static site using VueJS/Nuxt. Expect more to come!)</div>
+    <div class="subtext">(for example, I built this simple/minimal static site using VueJS/Nuxt. More to come!)</div>
   </section>
 </template>
 
