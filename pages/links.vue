@@ -1,18 +1,18 @@
 <template>
   <section class="container">
     <app-header />
-    <home-hero />
+    <links />
   </section>
 </template>
 
 <script>
 import AppHeader from '~/components/AppHeader.vue'
-import HomeHero from '~/components/HomeHero.vue'
+import Links from '~/components/Links.vue'
 
 export default {
   components: {
     AppHeader,
-    HomeHero
+    Links
   }
 }
 </script>

@@ -8,12 +8,17 @@
 html {
   font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
+  color: #373737;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
+}
+
+body {
+  background: #f4f4f4;
 }
 
 *, *:before, *:after {
@@ -48,6 +53,12 @@ html {
 .button--grey:hover {
   color: #fff;
   background-color: #35495e;
+}
+
+.page-title {
+  font-size: 50px;
+  padding: 20px;
+  line-height: 1;
 }
 </style>
 
