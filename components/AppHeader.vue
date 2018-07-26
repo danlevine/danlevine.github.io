@@ -62,9 +62,10 @@ header {
   font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 18px;
   font-weight: 600;
-  border: 2px solid #373737;
   padding: 4px 16px 18px 6px;
   border-radius: 3px;
+  background: #373737;
+  color: #f4f4f4;
 }
 
 .link-list {
