@@ -34,10 +34,6 @@ module.exports = {
         })
       }
     }
-  },
-  /*
-  ** Add base URL
-  */
-  router: { base: '/dl-site/' }
+  }
 }
 
