@@ -1,8 +1,20 @@
 <template>
   <div>
     <nuxt/>
+    <puckman/>
   </div>
 </template>
+document.elementFromPoint
+<script>
+import Puckman from  '~/components/Puckman.vue'
+
+export default {
+  components: {
+    Puckman
+  }
+}
+</script>
+
 
 <style>
 html {
