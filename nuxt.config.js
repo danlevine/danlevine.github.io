@@ -13,6 +13,9 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
+  modules: [
+    ['@nuxtjs/google-analytics', { ua: '123789022-1' }],
+  ],
   /*
   ** Customize the progress bar color
   */
